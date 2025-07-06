@@ -1,13 +1,13 @@
 # Python Operatorlari - To'liq Qo'llanma
 
 ## Mundarija
-1. [Arithmetic operators (Arifmetik operatorlar)](#1-arithmetic-operators)
-2. [Assignment operators (Tayinlash operatorlari)](#2-assignment-operators)
-3. [Comparison operators (Taqqoslash operatorlari)](#3-comparison-operators)
-4. [Logical operators (Mantiqiy operatorlar)](#4-logical-operators)
-5. [Identity operators (Identifikatsiya operatorlari)](#5-identity-operators)
-6. [Membership operators (A'zolik operatorlari)](#6-membership-operators)
-7. [Bitwise operators (Bitli operatorlar)](#7-bitwise-operators)
+1. [Arithmetic operators (Arifmetik operatorlar)](#1-arithmetic-operators-arifmetik-operatorlar)
+2. [Assignment operators (Tayinlash operatorlari)](#2-assignment-operators-tayinlash-operatorlari)
+3. [Comparison operators (Taqqoslash operatorlari)](#3-comparison-operators-taqqoslash-operatorlari)
+4. [Logical operators (Mantiqiy operatorlar)](#4-logical-operators-mantiqiy-operatorlar)
+5. [Identity operators (Identifikatsiya operatorlari)](#5-identity-operators-identifikatsiya-operatorlari)
+6. [Membership operators (A'zolik operatorlari)](#6-membership-operators-azolik-operatorlari)
+7. [Bitwise operators (Bitli operatorlar)](#7-bitwise-operators-bitli-operatorlar)
 
 ---
 
