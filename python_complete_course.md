@@ -576,7 +576,7 @@ talaba = {
 
 print("Talaba ma'lumotlari:", talaba)
 
-# Elementlarga murojaat
+# Elementlarga murojat qilish.
 print(f"Ism: {talaba['ism']}")
 print(f"Yosh: {talaba['yosh']}")
 
