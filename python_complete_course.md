@@ -21,7 +21,7 @@
 
 ---
 
-## 1. Python bilan tanishuv
+# 1. Python bilan tanishuv
 
 Python - bu sodda, o'qish va yozish oson, kuchli dasturlash tili.
 
