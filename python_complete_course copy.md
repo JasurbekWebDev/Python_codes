@@ -232,9 +232,23 @@ Python dasturlashni boshlayapmiz!
 ```python
 # Element qo'shish
 
+# oxiriga qo'shish
+
+# 1-indeksga qo'shish
+
 # Element o'chirish
 
+# qiymat bo'yicha o'chirish
+
+# oxirgisini o'chirish va qaytarish
+
+# indeks bo'yicha o'chirish
+
 # Boshqa foydali metodlar
+
+# tartiblash
+
+# teskari tartiblash
 ```
 
 ### Ro'yxat bilan ishlash
