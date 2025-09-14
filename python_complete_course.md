@@ -171,10 +171,10 @@ print(f"not a: {not a}")      # False
 
 # Amaliy misol
 yosh = 22
-maktab_bitirgan = True
+maktabni_bitirgan = True
 
-universitet_ga_kira_oladi = yosh >= 18 and maktab_bitirgan
-print(f"Universitetga kira oladi: {universitet_ga_kira_oladi}")
+universitetga_kirish = yosh >= 18 and maktabni_bitirgan
+print(f"Universitetga kira oladi: {universitetga_kirish}")
 ```
 
 ---

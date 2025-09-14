@@ -118,7 +118,7 @@ Python dasturlashni boshlayapmiz!
 
 ```python
 # Mantiqiy operatorlar
-# ang 
+# and 
 # or
 # not
 
