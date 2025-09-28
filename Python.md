@@ -39,11 +39,11 @@ print(f"Men talabaman: {talaba_mi}")  # talaba_mi o'zgaruvchisini chiqarish
 
 ---
 
-## 3. Turdagi o'zgartirish (Type Casting)
+## 3. Ma'lumot Turni o'zgartirish (Data Type Casting)
 
-**Izoh:** Ma'lumotlarni bir turdan boshqa turga o'zgartirish jarayoni. Masalan, raqamni matunga yoki matanni raqamga aylantirish.
+**Izoh:** Ma'lumotlarni bir turdan boshqa turga o'zgartirish jarayoni. Masalan, raqamni matnga yoki matanni raqamga aylantirish.
 
-**Misol (izohlangan kod):**
+**Misol: quydagi kodni (*type_casting.py*) ga joylang.**
 ```python
 # Turlarni o'zgartirish - tur konvertatsiyasi misollari
 raqam = 123  # butun son o'zgaruvchisi yaratilmoqda
@@ -64,11 +64,11 @@ print(f"O'nlik son: {o_nlik_son}, Butun son: {butun_son}")  # ikkalasini chiqari
 
 ---
 
-## 4. Foydalanuvchi kiritishi (User Input)
+## 4. Foydalanuvchi kiritish (User Input)
 
 **Izoh:** Foydalanuvchidan ma'lumot olish uchun input() funksiyasidan foydalaniladi. Bu funksiya har doim matn (string) qaytaradi.
 
-**Misol (izohlangan kod):**
+**Misol: quydagi kodni (*user_input.py*) ga joylang.**
 ```python
 # Foydalanuvchidan ma'lumot olish - input() orqali ism va yosh olish
 ism = input("Ismingizni kiriting: ")  # ismni matn sifatida olish
@@ -91,7 +91,7 @@ print(f"Yig'indi: {yig_indi}")  # yig'indini chiqarish
 
 **Izoh:** Foydalanuvchidan turli so'zlarni so'rab, ularni qiziqarli hikoyaga joylashtiradigan o'yin.
 
-**Misol (izohlangan kod):**
+**Misol: quydagi kodni (*mad_libs.py*) ga joylang.**
 ```python
 # MadLibs o'yini - foydalanuvchidan so'zlar olish va hikoya yaratish
 print("MadLibs o'yiniga xush kelibsiz!")  # o'yin boshlanishini chiqarish
@@ -118,7 +118,7 @@ print(hikoya)  # tayyor hikoyani ekranga chiqarish
 
 **Izoh:** Python-da matematik amallarni bajarish uchun turli operatorlar mavjud.
 
-**Misol (izohlangan kod):**
+**Misol: quydagi kodni (*matematika.py*) ga joylang.**
 ```python
 # Matematik operatorlar - ikkita son bilan arifmetik amallar
 a = 10  # birinchi o'zgaruvchi
@@ -153,7 +153,7 @@ print(f"Yaxlitlash: {math.ceil(3.2)} va {math.floor(3.8)}")  # 3.2 ni yuqoriga v
 
 **Izoh:** Shartli iboralar dasturda qaror qabul qilish uchun ishlatiladi.
 
-**Misol (izohlangan kod):**
+**Misol: quydagi kodni (*shart.py*) ga joylang.**
 ```python
 # If iboralari - yosh bo'yicha shartlar bilan ishlash
 yosh = int(input("Yoshingizni kiriting: "))  # yoshni input orqali olish va butunga aylantirish
@@ -191,7 +191,7 @@ print(f"Sizning harf bahoyingiz: {harf_baho}")  # harf bahoni chiqarish
 
 **Izoh:** Foydalanuvchidan raqamlar va amal turini so'rab, natijani hisoblaydigan dastur.
 
-**Misol (izohlangan kod):**
+**Misol: quydagi kodni (*kalkulyator.py*) ga joylang.**
 ```python
 # Oddiy kalkulyator - foydalanuvchidan sonlar va operator olish
 print("=== ODDIY KALKULYATOR ===")  # sarlavha chiqarish
@@ -225,7 +225,7 @@ else:  # noto'g'ri operator bo'lsa
 
 **Izoh:** Kilogram va funt o'rtasida o'zgartirish dasturi.
 
-**Misol (izohlangan kod):**
+**Misol: quydagi kodni (*konvertatsiya.py*) ga joylang.**
 ```python
 # Og'irlik konvertatsiyasi - kilogram va funt o'rtasida o'zgartirish
 print("=== OG'IRLIK KONVERTATSIYA DASTURI ===")  # sarlavha
@@ -266,7 +266,7 @@ elif birlik == "funt":  # funtdan boshqalarga
 
 **Izoh:** Celsius, Fahrenheit va Kelvin o'rtasida harorat o'zgartirishini amalga oshiradigan dastur.
 
-**Misol (izohlangan kod):**
+**Misol: quydagi kodni (*konvertatsiya.py*) ga joylang.**
 ```python
 # Harorat konvertatsiyasi - turli birliklar o'rtasida o'zgartirish
 print("=== HARORAT KONVERTATSIYA DASTURI ===")  # sarlavha
