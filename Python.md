@@ -4,7 +4,7 @@
 
 **Izoh:** Python - bu sodda va kuchli dasturlash tili. U o'rganish uchun oson va turli sohalarda qo'llaniladi.
 
-**Misol (quydagi kodni *python.py* ga joylang ):**
+**Misol: quydagi kodni (*python.py*) ga joylang.**
 ```python
 # Birinchi Python dasturimiz - bu oddiy salomlashuv dasturi
 
@@ -23,7 +23,7 @@ print("Men dasturlashni o'rganyapman")
 
 **Izoh:** O'zgaruvchilar ma'lumotlarni saqlash uchun ishlatiladi. Python-da o'zgaruvchi e'lon qilish uchun alohida kalit so'z kerak emas.
 
-**Misol: (quydagi kodni *variables.py* ga joylang )**
+**Misol: quydagi kodni (*variables.py*) ga joylang.**
 ```python
 # O'zgaruvchilar yaratish - ma'lumotlarni saqlash uchun o'zgaruvchilar e'lon qilinmoqda
 ism = "Ahmad"  # ism o'zgaruvchisiga matn qiymati saqlanmoqda
