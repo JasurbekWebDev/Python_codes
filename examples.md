@@ -1,3 +1,5 @@
+---
+## Mashq 23: Masofa, tezlik, vaqt
 ```python
 masofa = 120 # km
 tezlik = 60 # km/soat
