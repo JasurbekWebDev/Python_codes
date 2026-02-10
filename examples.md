@@ -10,5 +10,5 @@ print(f"Vaqt: {vaqt} soat")
 # Ushbu kod masofa, tezlik va vaqtni hisoblaydi.
 # Masofa 120 km, tezlik 60 km/soat bo'lsa, vaqt 2 soat bo'ladi.
 # Kodning maqsadi: berilgan masofa va tezlik asosida vaqtni hisoblash.
-
 ```
+---
